@@ -10,14 +10,26 @@ nav {
   position: fixed;
   width: 100%;
 }
+
 a{
   text-decoration: none;
 }
 
-a:link { color:white; } /* unvisited */
-a:visited { color:grey; } /* visited */
-a:hover { color:aqua; } /* mouse over */
-a:active { color:purple; } /* selected */
+a:link {
+  color:white;
+} /* unvisited */
+
+a:visited {
+  color:grey;
+} /* visited */
+
+a:hover {
+   color:aqua;
+} /* mouse over */
+
+a:active {
+   color:purple;
+} /* selected */
 
 
 .logo {
