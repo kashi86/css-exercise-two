@@ -20,7 +20,7 @@ a:link {
 } /* unvisited */
 
 a:visited {
-  color:grey;
+  color:#DFF9FB;
 } /* visited */
 
 a:hover {
@@ -28,7 +28,7 @@ a:hover {
 } /* mouse over */
 
 a:active {
-   color:purple;
+   color:#FAF4D6;
 } /* selected */
 
 
